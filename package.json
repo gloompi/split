@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "babel-plugin-universal-import": "^1.4.0",
+    "extract-css-chunks-webpack-plugin": "^2.0.18",
+    "react-universal-component": "^2.8.2",
+    "webpack-flush-chunks": "^1.2.3",
+    "webpack-hot-server-middleware": "^0.4.0"
+  }
+}
